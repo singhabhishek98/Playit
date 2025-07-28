@@ -1,0 +1,9 @@
+<!--suppress Typos -->
+<resources>
+    <string name="app_name">Playit</string>
+    <string name="app_toolbar_title">Playit - YouTube Viewer</string>
+    <string name="app_subtitle">Stream &amp; Enjoy Videos</string>
+    <string name="portfolio_url">https://codebyabhi.netlify.app/</string>
+    <string name="linkedin_url">https://linkedin.com/in/abhishek-singh-techwala</string>
+    <string name="github_url">https://github.com/itechwala</string>
+</resources>

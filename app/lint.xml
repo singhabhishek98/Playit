@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lint>
+    <!-- Suppress typo warnings for custom brand names and project-specific terms -->
+    <issue id="Typos">
+        <ignore regexp="(?i)(playit|PLAYIT|PlayIt|codebyabhi|netlify|abhishek|github|youtube|webview)" />
+    </issue>
+    
+    <!-- Completely disable typo checking for the entire project -->
+    <issue id="Typos" severity="ignore" />
+</lint>

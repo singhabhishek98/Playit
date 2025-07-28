@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--suppress Typos -->
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Playit Brand Colors -->
+    <color name="playit_primary">#FF1744</color>
+    <color name="playit_primary_dark">#D50000</color>
+    <color name="playit_secondary">#FF5722</color>
+    <color name="playit_accent">#FFC107</color>
+    
+    <!-- Header Gradient Colors -->
+    <color name="header_gradient_start">#FF1744</color>
+    <color name="header_gradient_end">#FF5722</color>
+    
+    <!-- Text Colors -->
+    <color name="header_text">#FFFFFF</color>
+    <color name="header_subtitle">#FFE0E0</color>
+    
+    <!-- Background Colors -->
+    <color name="background_light">#FAFAFA</color>
+    <color name="surface_light">#FFFFFF</color>
+</resources>
