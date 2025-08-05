@@ -6,17 +6,13 @@
   <img src="https://img.icons8.com/color/96/000000/play-button-circled.png" height="80" />
 </p>
 
-<p align="center">
-  <a href="https://play.google.com/store/apps/details?id=your.package.name" target="_blank">
-    <img alt="Get it on Google Play" src="https://img.shields.io/badge/Get%20it%20on-Play%20Store-02b3e4?style=for-the-badge&logo=google-play&logoColor=white"/>
-  </a>
-</p>
+
 
 ---
 
 ### 📱 App Screenshot
 
-<img src="./screenshot.png" alt="App Screenshot" width="300" />
+<img src="./UI.png" alt="App Screenshot" width="300" />
 
 ---
 
@@ -42,7 +38,7 @@
 
 ### 📦 Download APK
 
-> 📲 [Click here to download APK](./Playit.apk)
+> 📲 [Click here to download (./Playit.apk)
 
 You can download and install the APK file directly on your Android device.
 
